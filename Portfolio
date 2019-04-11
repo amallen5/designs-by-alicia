@@ -1,0 +1,65 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Untitled Document</title>
+<link href="custom.css" rel="stylesheet" type="text/css">
+<link href="normalize.css" rel="stylesheet" type="text/css">
+<link href="skeleton.css" rel="stylesheet" type="text/css">
+<link href="PrintStylesTutorialFiles/css/print.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+		<div class="section header">
+		 <div class="container">
+	<div class="container">
+	<div class="row">
+		<div class="four columns">
+		<p class="logo">Web Design
+		</div>
+		<div class="eight columns nav">
+		<a class="button-primary4" href="#">Home</a>
+<a href="#" class="button5">Our Clients</a>
+<a class="button6" href="#">About Us</a>
+<a href="#" class="button6">Careers</a>
+		</div>
+		
+	
+</div>
+			 
+			 
+			 
+			 
+			 
+	<div class="container">
+<div class="row">
+  <h2>Alicia Allen</h2>
+	<h3>Web Design Portfolio</h3>
+	<h10>Welcome to my web design portfolio I hope you enjoy!</h10>
+    
+  </div>
+  <div class="row">
+    <div class="four columns">
+<p><img src="Screen Shot 2019-04-01 at 12.50.13 PM.png" alt="" width="300" height="156" class="Missing"/></p>
+      <p><a href="#" class="button">More info</a></p>
+    </div>
+    <div class="four columns">
+      <p><img src="Screen Shot 2019-04-01 at 12.48.56 PM.png" alt="" width="300" height="155" class="Widget"/></p>
+      <p><a href="#" class="button2">More info</a></p>
+    </div>
+    <div class="four columns">
+      <p><img src="Screen Shot 2019-04-01 at 12.49.28 PM.png" alt="" width="300" height="150" class="World"/></p>
+      <p><a href="#" class="button3">More info</a></p>
+    </div>
+  </div>
+		<div class="container">
+  <div class="row">
+    
+</div>
+</div>
+
+		<div style="clear: both"><footer class="Footer">@Copyright 2019.All rights reserved.</footer></div>
+	
+
+</body>
+</html>
