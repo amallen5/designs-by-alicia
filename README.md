@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Alicia Allen
 
 You can use the [editor on GitHub](https://github.com/amallen5/designs-by-alicia/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
